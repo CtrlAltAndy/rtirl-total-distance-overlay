@@ -1,0 +1,44 @@
+.container {
+  display: inline-flex;
+  background-color: #00000080;
+  font-family: "Roboto", sans-serif;
+  padding: 16px;
+}
+
+.meter {
+  width: 130px;
+  display: flex;
+  flex-direction: column;
+}
+
+.altitudemeter {
+  width: 70px;
+}
+
+.row {
+  display: flex;
+  align-items: flex-end;
+}
+
+.value {
+  font-size: 24px !important;
+  font-weight: 400 !important;
+  color: #fff !important;
+  text-shadow: 2px 2px #000;
+}
+
+.label {
+  padding-top: 16px;
+  font-size: 16px !important;
+  font-weight: 600 !important;
+  color: #fff !important;
+  text-shadow: 2px 2px #000;
+}
+
+.unit {
+  padding-left: 6px;
+  font-size: 16px !important;
+  font-weight: 400 !important;
+  color: #fff !important;
+  text-shadow: 2px 2px #000;
+}

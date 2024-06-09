@@ -1,0 +1,16 @@
+{
+  "name": "rtirl-overlay",
+  "version": "1.0.0",
+  "description": "",
+  "default": "index.html",
+  "scripts": {
+    "serve": "yarn parcel index.html --no-cache",
+    "build": "yarn parcel build index.html --no-cache"
+  },
+  "author": "",
+  "license": "UNLICENCED",
+  "private": true,
+  "devDependencies": {
+    "parcel": "^2.5.0"
+  }
+}
