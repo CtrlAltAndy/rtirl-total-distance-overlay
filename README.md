@@ -2,6 +2,10 @@
 
 Custom overlay for RealtimeIRL total distance, daily distance and speed. Saves distance data to Google firestore, should be covered by the free tier but charges may apply.
 
+Overlay with default styling:
+
+![image](https://github.com/CtrlAltAndy/rtirl-total-distance-overlay/assets/139385528/438cb6cb-e203-4f8d-9462-da35648077fe)
+
 ## Adding as a StreamElements overlay
 
 ### 1. Add a Custom widget
